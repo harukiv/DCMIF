@@ -4,7 +4,7 @@ import torchvision
 from torch import Tensor
 import torch.nn as nn
 from torch import autograd
-import model.IVCDL.basicblock as B
+import model.JSRL.basicblock as B
 import torch.nn.functional as F
 import numpy as np
 from math import ceil

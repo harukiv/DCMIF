@@ -1,5 +1,9 @@
 # Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared
  This paper has been accpeted by CVPR 2026 Highlight [[arxiv](https://arxiv.org/abs/2603.08018)]
+ 
+ <div align=center>
+<img src="https://github.com/YR0211/MulFS-CAP/blob/main/overview.png" width="90%">
+</div>
 
 ##  Environment
 - Python >= 3.8

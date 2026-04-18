@@ -11,7 +11,7 @@
 This project uses the following pretrained LLM:
 
 - **Qwen-7B-Chat**: [Hugging Face Link](https://huggingface.co/Qwen/Qwen-7B-Chat)
-
+[weight Link](https://drive.google.com/drive/folders/154jeD1NgNDXg8rEMSzNg4He5Vd9-Uc5q?usp=sharing)
 Please download the model from the official page and place it in:
 
 ```bash

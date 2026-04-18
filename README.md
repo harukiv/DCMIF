@@ -1,4 +1,4 @@
-# Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared [CVPR 2026 Hightlight]
+# Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared
  This paper has been accpeted by CVPR 2026 Highlight [[arxiv](https://arxiv.org/abs/2603.08018)]
 
 ##  Environment

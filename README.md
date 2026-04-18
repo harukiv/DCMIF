@@ -21,7 +21,7 @@ Please download the model from the official page and place it in:
 ## Train
 The model is trained in three stages: JSRL, VGII and AFRI. 
 
-The shared dictionary and the weights of the coefficient encoding and decoding network used in the subsequent stage are obtained through the JSRL training.
+First, the shared dictionary and the weights of the coefficient encoding and decoding network used in the subsequent stage are obtained through the JSRL training.Among them, the weight of the dictionary is saved as **dictionary.pth**.Subsequently, we continued to train the VGII module, obtaining the corresponding weights for the pseudo-infrared inference network. Finally, the AFRI module is re-trained to obtain the fusion result.
 
 ##  Weight
 All the model weights will be uploaded successively to [Link](https://drive.google.com/drive/folders/154jeD1NgNDXg8rEMSzNg4He5Vd9-Uc5q?usp=sharing)

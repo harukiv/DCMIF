@@ -18,5 +18,10 @@ Please download the model from the official page and place it in:
 ./LLM/Qwen
 ```
 
+## Train
+The model is trained in three stages: JSRL, VGII and AFRI. 
+
+The shared dictionary and the weights of the coefficient encoding and decoding network used in the subsequent stage are obtained through the JSRL training.
+
 ##  Weight
 All the model weights will be uploaded successively to [Link](https://drive.google.com/drive/folders/154jeD1NgNDXg8rEMSzNg4He5Vd9-Uc5q?usp=sharing)

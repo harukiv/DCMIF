@@ -32,4 +32,4 @@ Just run the **"AFRI_test.py"** file. The weights that need to be loaded include
 
 The model was trained on three datasets, and the fusion weights were different on each dataset: MSRS, FLIR, and KAIST.
 
-All the model weights will be uploaded successively to [Link](https://drive.google.com/drive/folders/154jeD1NgNDXg8rEMSzNg4He5Vd9-Uc5q?usp=sharing)
+All the model weights will be uploaded successively to [Google Drive Link](https://drive.google.com/drive/folders/154jeD1NgNDXg8rEMSzNg4He5Vd9-Uc5q?usp=sharing)

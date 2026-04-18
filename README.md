@@ -16,6 +16,7 @@ Please download the model from the official page and place it in:
 
 ```bash
 ./LLM/Qwen
+```
 
-## Weight
+##  Dependencies
 All the model weights will be uploaded successively to [Link](https://drive.google.com/drive/folders/154jeD1NgNDXg8rEMSzNg4He5Vd9-Uc5q?usp=sharing)

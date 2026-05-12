@@ -14,7 +14,7 @@
 ##  Dependencies
 This project uses the following pretrained LLM:
 
-- **Qwen-7B-Chat**: [Hugging Face Link](https://huggingface.co/Qwen/Qwen-7B-Chat)
+- **Qwen-7B-Chat**: [[BaiduPan]]( https://pan.baidu.com/s/14re0TNK4scsXs1Dj1zqrwQ?pwd=yrvj) (password: yrvj)
 
 Please download the model from the official page and place it in:
 
